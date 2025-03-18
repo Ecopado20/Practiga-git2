@@ -38,4 +38,9 @@ def main():
 
 if __name__ == "__main__":
     main()
+<<<<<<< HEAD
 #ya me quiero ir
+=======
+#adios tilina
+#pon atención tilina
+>>>>>>> bc3e58a82c0441a5c8aab46bb88148f9afee1a82
