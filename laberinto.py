@@ -1,4 +1,4 @@
-FILAS = 5
+FILAS = 5  #hola tilina
 COLUMNAS = 5
 META_FILA = FILAS - 1
 META_COLUMNA = COLUMNAS - 1
