@@ -38,6 +38,5 @@ def main():
 
 if __name__ == "__main__":
     main()
-#adios tilina
-## ¿Qué diferencias encuentras entre ambos códigos?
-# R: El primer código utiliza funciones para crear el laberinto, mostrarlo y mover al jugador, mientras que el segundo código no utiliza funciones.
+
+#ya basta 
